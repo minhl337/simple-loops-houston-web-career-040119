@@ -37,7 +37,7 @@ def while_iterator(number_of_times)
   candy=0
   while candy < number_of_times
   puts phrase
-  counter +=1
+  counter = counter +1
 end  
   
 end
